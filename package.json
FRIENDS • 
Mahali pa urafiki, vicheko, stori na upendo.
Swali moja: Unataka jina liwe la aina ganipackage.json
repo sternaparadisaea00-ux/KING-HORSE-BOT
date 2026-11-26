@@ -1,0 +1,15 @@
+
+{
+  "name": "king-horse-bot",
+  "version": "1.0.0",
+  "description": "KING HORSE WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "express": "latest",
+    "pino": "latest"
+  }
+}
